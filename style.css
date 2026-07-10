@@ -24,7 +24,7 @@ html{
 }
 
 body{
-    background:#a5851b;
+    background:#f3c94b;
     color:#121010;
     overflow-x:hidden;
     line-height:1.6;
@@ -269,12 +269,12 @@ nav ul li a.active{
 .about-content h2{
     font-size:4.4rem;
     margin:15px 0;
-    color:#222;
+    color:#f3ebeb;
 }
 
 .about-content p{
     font-size:1.6rem;
-    color:#666;
+    color:#093412;
     margin-bottom:18px;
     line-height:1.8;
 }
